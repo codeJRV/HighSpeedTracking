@@ -1,5 +1,7 @@
 data/
 pretrained/
+KCF/tc_Baby_ce
+KCF/build
 *.ipynb_checkpoints
 *.pyc
 *.swp
